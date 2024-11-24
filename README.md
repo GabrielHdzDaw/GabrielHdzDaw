@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielHdzDaw
-- 🌱 I’m currently learning WebApp Development
+- 🌱 I’m currently learning Web Development
 
 
 <!---
