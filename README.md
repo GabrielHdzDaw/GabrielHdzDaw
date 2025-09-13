@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielHdzDaw
 - 🌱 I’m currently learning Web Development
-- ![alt text](https://www.codewars.com/users/GabrielHdzDaw/badges/large)
+- [![alt text](https://www.codewars.com/users/GabrielHdzDaw/badges/small)](https://www.codewars.com/users/GabrielHdzDaw/stats)
 
 
 <!---
